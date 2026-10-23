@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Adicione a linha "Sitemap: https://SEU-DOMINIO/sitemap.xml" quando o domínio definitivo existir.
